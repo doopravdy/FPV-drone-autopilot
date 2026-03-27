@@ -4,3 +4,4 @@ FPV drone autopilot relies solely on video transmission，In project development
 业余选手，技术菜，勿喷。
 路线是CNN + LSTM。只是个测试版本，不能保证技术路线是对的。
 错误：只能实现上下高度来回悬停，和半个左转动作，0.1个右转？。已知原因：时序设置少了才1秒；数据质量低。
+我需要帮助！I need help!
