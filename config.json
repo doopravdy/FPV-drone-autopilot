@@ -1,0 +1,15 @@
+{
+    "serial_port": "COM7",
+    "baudrate": 115200,
+
+    "model_path": "best_model.pth",
+    "seq_len": 60,
+    "img_width": 128,
+    "img_height": 80,
+    "lstm_hidden": 192,
+    "lstm_layers": 1,
+
+    "inference_fps": 20,
+    "debug": true,
+    "mask_path": "maks.png"
+}
